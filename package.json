@@ -1,0 +1,13 @@
+{
+  "name": "facestyle-ai",
+  "version": "1.0.0",
+  "description": "AI-powered hairstyle, beard and grooming recommendations from a selfie.",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "engines": {
+    "node": ">=18"
+  },
+  "dependencies": {}
+}
